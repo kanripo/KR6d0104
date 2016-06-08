@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:49:40.879674
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 14:47
 #+TITLE: 法華問答
 #+PROPERTY: CBETA_ID T85n2752
 #+PROPERTY: ID KR6d0104
